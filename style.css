@@ -81,7 +81,7 @@ a:hover, a:active {
   }
   *{
     font-family: cooper-black-std;
-    color: black;
+    color: blue;
     -webkit-text-stroke-width: .45vmin;
     -webkit-text-stroke-color: red;
     margin: 0px;
