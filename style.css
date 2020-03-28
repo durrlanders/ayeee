@@ -58,7 +58,7 @@ a:hover, a:active {
   grid-column: 1 / span 12;
   grid-row: 5 / span 2;
 }
-@media screen and (max-width: 700px){
+@media screen and (max-width: 4in){
   .maincontainer{
     margin: 0px;
     padding: 0px;
