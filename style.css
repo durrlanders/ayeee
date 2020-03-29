@@ -13,6 +13,8 @@
     height: 100vh;
   }
   body{
+    width: 100vw;
+    height: 100vh;
     background-image: url("home.gif");
     background-repeat: repeat;
     background-position: center top;
@@ -25,7 +27,7 @@
   *{
     font-family: cooper-black-std;
     color: blue;
-    -webkit-text-stroke-width: .45vmin;
+    -webkit-text-stroke-width: .5vmin;
     -webkit-text-stroke-color: red;
     margin: 0px;
     padding: 0px;
@@ -86,6 +88,8 @@ body{
   font-size: 16vmin;
   margin: 0px;
   padding: 0px;
+  width: 100vw;
+  height: 100vh;
 }
 
 *{
