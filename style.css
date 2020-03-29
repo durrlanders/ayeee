@@ -47,7 +47,7 @@
   }
   .click{
     grid-column-end: span 1;
-    grid-row: 5 / span 1;
+    grid-row: 6 / span 1;
       text-align: center;
   }
   a:link, a:visited {
